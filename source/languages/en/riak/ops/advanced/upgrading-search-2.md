@@ -228,7 +228,7 @@ have occurred on every node.
 7. Next, call the following command that will give HTTP and PB query
 control to the new Riak Search.
 
-    ```curl
+    ```bash
     riak-admin search switch-to-new-search
     ```
 
